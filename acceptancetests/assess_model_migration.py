@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+"""Adding extra text for a commit."""
 """Tests for the Model Migration feature"""
 
 from __future__ import print_function
