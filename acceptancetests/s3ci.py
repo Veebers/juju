@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# this is something else here that I'm typing as I want some changes.
 from __future__ import print_function
 
 from argparse import ArgumentParser
