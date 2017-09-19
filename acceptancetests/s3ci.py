@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Adding comment that explains what the script does.
 from __future__ import print_function
 
 from argparse import ArgumentParser
