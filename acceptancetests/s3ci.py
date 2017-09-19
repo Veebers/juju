@@ -9,8 +9,6 @@ import os
 import re
 import sys
 
-# This comment is on a different line than before.
-
 from boto.s3.connection import S3Connection
 
 from download_juju import (
